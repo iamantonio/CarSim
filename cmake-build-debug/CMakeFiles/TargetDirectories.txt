@@ -1,0 +1,3 @@
+/Users/tony/CLionProjects/CarSim/cmake-build-debug/CMakeFiles/CarSim.dir
+/Users/tony/CLionProjects/CarSim/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tony/CLionProjects/CarSim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
